@@ -1,0 +1,32 @@
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    color: #BC8F8F;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+p {
+    color: #8B4513;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: left;
+}
+
+h3 {
+    color: #BC8F8F;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+li {
+    color: #8B4513;
+    font-size: 16px;
+    font-weight: 300;
+}
